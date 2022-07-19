@@ -1,0 +1,34 @@
+body{
+    background-color:lavenderblush;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h1{
+    margin: 10px auto;
+    text-align: center;
+    padding: auto;
+    font-weight: bold;
+}
+h2{
+    margin: 30px auto;
+    margin-bottom: 15px;
+    text-align: center;
+    padding: auto;
+    color:blueviolet
+}
+table{
+    border: 2px solid;
+    border-color: darkmagenta;
+    margin: auto;
+}
+.title{
+    background-color: plum;
+}
+.code{
+    background-color: antiquewhite;
+    font-family: monospace;
+}
+th,td{
+    border: 1px solid;
+    padding:2px;
+ 
+}
